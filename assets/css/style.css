@@ -69,6 +69,9 @@ body {
     font-size: 20px;
     transition: all 0.3s ease-in-out;
   }
+
+/* Add Media Queary for table it will apply 768px or bellow*/
+  
   @media screen and (max-width: 768px), screen and (max-width: 575px) {
     .row {
       height: auto;
